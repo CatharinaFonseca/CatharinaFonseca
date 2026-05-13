@@ -1,4 +1,4 @@
-# Olá! Eu sou a Catharina Fonseca
+# Catharina Fonseca
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Em busca de estágio na área de Tecnologia  
